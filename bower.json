@@ -11,7 +11,7 @@
         ".jshintrc",
         "bower.json",
         "unittests.html",
-        "userscript.hmtl",
+        "userscript.html",
         "README"
     ]
 }
