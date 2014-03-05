@@ -1,0 +1,17 @@
+{
+    "name": "MediaFragmentsURI",
+    "version": "0.0.1",
+    "main": "mediafragments.js",
+    "ignore": [
+        "test_resources",
+        ".user.js",
+        "implementationtests.html",
+        "index.html",
+        "mediafragments.tmproj",
+        ".jshintrc",
+        "bower.json",
+        "unittests.html",
+        "userscript.hmtl",
+        "README"
+    ]
+}
